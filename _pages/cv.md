@@ -11,17 +11,17 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, Carl von Ossietzky University of Oldenburg (pursuing)
+* Ph.D in Computer Science, Carl von Ossietzky University of Oldenburg (_Since September, 2025_)
 * M.Sc. in Computer Science, Paderborn University, 2024
 * B.E. in Computer Science and Engineering, Anna University, 2020
 
 Work experience
 ======
-* August 2022 - August 2025: Student Assistant
+* August 2022 - August 2025: __Student Assistant__
   * Secure Software Engineering Research Group, Fraunhofer IEM, Paderborn
   * Topics: ML and AI for Software Security
 
-* December 2019 - July 2021: Software Engineer
+* December 2019 - July 2021: __Software Engineer__
   * Novopay Software Solutions, Bengaluru
   * Work: Developing web applications for the fintech industry
 
