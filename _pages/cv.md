@@ -23,7 +23,7 @@ Work experience
 
 * December 2019 - July 2021: __Software Engineer__
   * Novopay Software Solutions, Bengaluru
-  * Work: Developing web applications for the fintech industry
+  * Work: Developing web applications for financial institutions
 
 <!---
 Skills
