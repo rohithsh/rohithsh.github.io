@@ -18,11 +18,11 @@ Education
 Work experience
 ======
 * August 2022 - August 2025: Student Assistant
-  * Secure Software Engineering Research Group, Fraunhofer, IEM
+  * Secure Software Engineering Research Group, Fraunhofer IEM, Paderborn
   * Topics: ML and AI for Software Security
 
 * December 2019 - July 2021: Software Engineer
-  * Novopay Software Solutions
+  * Novopay Software Solutions, Bengaluru
   * Work: Developing web applications for the fintech industry
 
 <!---
