@@ -11,27 +11,21 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, Carl von Ossietzky University of Oldenburg (pursuing)
+* M.Sc. in Computer Science, Paderborn University, 2024
+* B.E. in Computer Science and Engineering, Anna University, 2020
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* August 2022 - August 2025: Student Assistant
+  * Secure Software Engineering Research Group, Fraunhofer, IEM
+  * Topics: ML and AI for Software Security
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* December 2019 - July 2021: Software Engineer
+  * Novopay Software Solutions
+  * Work: Developing web applications for the fintech industry
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+<!---
 Skills
 ======
 * Skill 1
@@ -53,7 +47,8 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+
+Teaching 
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
@@ -62,3 +57,6 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+
+-->
