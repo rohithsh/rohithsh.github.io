@@ -7,12 +7,4 @@ title-block-banner: false
 
 ## Summer Semester 2026
 
-::: {.grid}
-
-::: {.g-col-12 .g-col-md-2}
-:::
-
 Software Analysis Lab
-
-
-:::
