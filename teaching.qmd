@@ -12,10 +12,7 @@ title-block-banner: false
 ::: {.g-col-12 .g-col-md-2}
 :::
 
-::: {.g-col-12 .g-col-md-10}
-
 Software Analysis Lab
 
-:::
 
 :::
