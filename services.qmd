@@ -8,7 +8,7 @@ css: custom.css
 ---
 
 ### Committee Member
-  [AEC - FM 2026] (https://conf.researchr.org/track/fm-2026/fm-2026-artifact-evaluation)
+  [AEC - FM 2026](https://conf.researchr.org/track/fm-2026/fm-2026-artifact-evaluation)
 
 ### External Reviewer
-  [FM 2026] (https://conf.researchr.org/home/fm-2026)
+  [FM 2026](https://conf.researchr.org/home/fm-2026)

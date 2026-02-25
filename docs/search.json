@@ -4,14 +4,14 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "Software Analysis Lab, Summer Semester 2026, Carl von Ossietzky University of Oldenburg"
+    "text": "Software Analysis Lab"
   },
   {
-    "objectID": "teaching.html#class-1",
-    "href": "teaching.html#class-1",
+    "objectID": "teaching.html#summer-semester-2026",
+    "href": "teaching.html#summer-semester-2026",
     "title": "Teaching",
     "section": "",
-    "text": "Software Analysis Lab, Summer Semester 2026, Carl von Ossietzky University of Oldenburg"
+    "text": "Software Analysis Lab"
   },
   {
     "objectID": "publications.html",
@@ -74,7 +74,7 @@
     "href": "index.html",
     "title": "Rohith Kumar Shanmuganathan",
     "section": "",
-    "text": "Group\n  \n  \n    \n     E-mail\n  \n  \n    \n     LinkedIn\n  \n  \n      Google Scholar\n  \n\n  \n  \nI’m a Phd Student at the Carl von Ossietzky University of Oldenburg advised by Prof. Heike Wehrheim.\nI am currently working on the explainability of software bugs. My other research interests include software analysis, AI4SE and secure software engineering.\nI am also a Research Fellow at the DFG funded research and training group CAUSE.\n\n\n\nResearch Assistant, Carl von Ossietzky University of Oldenburg, Oldenburg, Germany\nStudent Research Assistant, Secure Software Engineering Group, Fraunhofer IEM, Paderborn, Germany\nSoftware Development Engineer 1, Trustt (formerly Novopay), Bengaluru, India\n\n\n\n\n\nPhD, Carl von Ossietzky University of Oldenburg, Oldenburg, Germany (Since Sep 2025)\nM.Sc. Computer Science, Paderborn University, Paderborn, Germany\nB.E. Computer Science and Engineering, Anna University, India"
+    "text": "Group\n  \n  \n    \n     E-mail\n  \n  \n    \n     LinkedIn\n  \n  \n      Google Scholar\n  \n\n  \n  \nI’m a Phd Student at the Carl von Ossietzky University of Oldenburg advised by Prof. Heike Wehrheim.\nI am currently working on the explainability of software bugs. My other research interests include software analysis, AI4SE and secure software engineering.\nI am also a Research Fellow at the DFG funded research and training group CAUSE.\n\n\n\nResearch Assistant, Carl von Ossietzky University of Oldenburg, Oldenburg, Germany\nStudent Research Assistant, Secure Software Engineering Group, Fraunhofer IEM, Paderborn, Germany\nSoftware Development Engineer 1, Trustt (formerly Novopay), Bengaluru, India\n\n\n\n\n\nM.Sc. Computer Science, Paderborn University, Paderborn, Germany\nB.E. Computer Science and Engineering, Anna University, India"
   },
   {
     "objectID": "index.html#experience",
@@ -88,7 +88,7 @@
     "href": "index.html#education",
     "title": "Rohith Kumar Shanmuganathan",
     "section": "",
-    "text": "PhD, Carl von Ossietzky University of Oldenburg, Oldenburg, Germany (Since Sep 2025)\nM.Sc. Computer Science, Paderborn University, Paderborn, Germany\nB.E. Computer Science and Engineering, Anna University, India"
+    "text": "M.Sc. Computer Science, Paderborn University, Paderborn, Germany\nB.E. Computer Science and Engineering, Anna University, India"
   },
   {
     "objectID": "posts/paper-title/index.html#abstract",
@@ -116,6 +116,6 @@
     "href": "services.html",
     "title": "Services",
     "section": "",
-    "text": "Committee Member\n[AEC - FM 2026] (https://conf.researchr.org/track/fm-2026/fm-2026-artifact-evaluation)\n\n\nExternal Reviewer\n[FM 2026] (https://conf.researchr.org/home/fm-2026)"
+    "text": "Committee Member\nAEC - FM 2026\n\n\nExternal Reviewer\nFM 2026"
   }
 ]

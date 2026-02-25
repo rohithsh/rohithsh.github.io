@@ -81,7 +81,6 @@ I am also a Research Fellow at the DFG funded research and training group [CAUSE
 
 ## Education
 
-- PhD, Carl von Ossietzky University of Oldenburg, Oldenburg, Germany (Since Sep 2025)
 - M.Sc. Computer Science, Paderborn University, Paderborn, Germany
 - B.E. Computer Science and Engineering, Anna University, India
 

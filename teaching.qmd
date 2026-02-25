@@ -5,7 +5,7 @@ title-block-banner: false
 ---
 
 
-## Class 1
+## Summer Semester 2026
 
 ::: {.grid}
 
@@ -14,7 +14,7 @@ title-block-banner: false
 
 ::: {.g-col-12 .g-col-md-10}
 
-Software Analysis Lab, Summer Semester 2026, Carl von Ossietzky University of Oldenburg
+Software Analysis Lab
 
 :::
 
