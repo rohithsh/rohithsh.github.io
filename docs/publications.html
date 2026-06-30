@@ -18,7 +18,7 @@ div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
   width: 0.8em;
-  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */
   vertical-align: middle;
 }
 </style>
@@ -79,7 +79,7 @@ gtag('config', '', { 'anonymize_ip': true});
 </script>
 
 
-<!-- 
+<!--
 
 Load Academicons v1: https://jpswalsh.github.io/academicons/
 
@@ -149,21 +149,21 @@ https://badge.dimensions.ai/
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-research" role="link" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">Research</span>
     </a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-research">    
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-research">
         <li>
     <a class="dropdown-item" href="./publications.html">
  <span class="dropdown-text">Publications</span></a>
-  </li>  
+  </li>
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="./teaching.html"> 
+    <a class="nav-link" href="./teaching.html">
 <span class="menu-text">Teaching</span></a>
-  </li>  
+  </li>
   <li class="nav-item">
-    <a class="nav-link" href="./services.html"> 
+    <a class="nav-link" href="./services.html">
 <span class="menu-text">Services</span></a>
-  </li>  
+  </li>
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
@@ -181,7 +181,7 @@ https://badge.dimensions.ai/
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -195,18 +195,18 @@ https://badge.dimensions.ai/
 
 <div class="quarto-title-meta">
 
-    
-  
-    
+
+
+
   </div>
-  
+
 
 
 </header>
 
 
 <!--Include academic icons or buttons-->
-<!-- 
+<!--
 Load Academicons v1: https://jpswalsh.github.io/academicons/
 -->
 <p><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css"></p>
@@ -219,6 +219,7 @@ https://badge.dimensions.ai/
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 <script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 <script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
+<p>(Accepted) Shanmuganathan, R. K., Thoben, N., & Wehrheim, H. (2026). <a href="https://doi.org/10.5281/zenodo.20799583">An Empirical Study on the Effectiveness of Software Bug Reports: A Registered Report</a>. Empirical Software Engineering and Measurement - Registered Reports track (ESEM), Munich, Germany.</p>
 <p>O. Johnson, A. Fomina, R. Krishnamurthy, V. Chaudhari, R. K. Shanmuganathan and E. Bodden (2025). <a href="https://ieeexplore.ieee.org/abstract/document/11334243">Explaining Software Vulnerabilities with Large Language Models</a>. 40th IEEE/ACM International Conference on Automated Software Engineering Workshops (ASEW), Seoul, South Korea.</p>
 <center>
 <hr style="width:50%">
@@ -238,7 +239,7 @@ https://badge.dimensions.ai/
     anchorJS.add('.anchored');
     const isCodeAnnotation = (el) => {
       for (const clz of el.classList) {
-        if (clz.startsWith('code-annotation-')) {                     
+        if (clz.startsWith('code-annotation-')) {
           return true;
         }
       }
@@ -258,11 +259,11 @@ https://badge.dimensions.ai/
         button.setAttribute("data-bs-toggle", "tooltip");
         button.setAttribute("data-bs-placement", "left");
         button.setAttribute("data-bs-title", "Copied!");
-        tooltip = new bootstrap.Tooltip(button, 
-          { trigger: "manual", 
+        tooltip = new bootstrap.Tooltip(button,
+          { trigger: "manual",
             customClass: "code-copy-button-tooltip",
             offset: [0, -8]});
-        tooltip.show();    
+        tooltip.show();
       }
       setTimeout(function() {
         if (tooltip) {
@@ -344,7 +345,7 @@ https://badge.dimensions.ai/
       if (onUntriggerFn) {
         config.onUntrigger = onUntriggerFn;
       }
-      window.tippy(el, config); 
+      window.tippy(el, config);
     }
     const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
     for (var i=0; i<noterefs.length; i++) {
@@ -419,7 +420,7 @@ https://badge.dimensions.ai/
       tippyHover(xref, undefined, function(instance) {
         instance.disable();
         let url = xref.getAttribute('href');
-        let hash = undefined; 
+        let hash = undefined;
         if (url.startsWith('#')) {
           hash = url;
         } else {
@@ -447,7 +448,7 @@ https://badge.dimensions.ai/
               if (note !== null) {
                 const html = processXRef(id, note);
                 instance.setContent(html);
-              } 
+              }
             }).finally(() => {
               instance.enable();
               instance.show();
@@ -471,7 +472,7 @@ https://badge.dimensions.ai/
               }
               const html = processXRef(null, note);
               instance.setContent(html);
-            } 
+            }
           }).finally(() => {
             instance.enable();
             instance.show();
@@ -511,7 +512,7 @@ https://badge.dimensions.ai/
               height = bottom - top;
             }
             if (top !== null && height !== null && parent !== null) {
-              // cook up a div (if necessary) and position it 
+              // cook up a div (if necessary) and position it
               let div = window.document.getElementById("code-annotation-line-highlight");
               if (div === null) {
                 div = window.document.createElement("div");
@@ -638,7 +639,7 @@ https://badge.dimensions.ai/
     <div class="nav-footer-left">
 <a href="http://www.rohithsh.github.io">Rohith Kumar Shanmuganathan</a> ©
 <script>document.write(new Date().getFullYear())</script>
-</div>   
+</div>
     <div class="nav-footer-center">
       &nbsp;
     </div>
